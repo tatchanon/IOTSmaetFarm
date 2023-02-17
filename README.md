@@ -1,4 +1,4 @@
-# IOTSmaetFarm
+# IOTSmartFarm
 monitor and control devicefor smartfarm
 
 
